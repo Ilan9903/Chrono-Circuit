@@ -24,13 +24,13 @@ L'ensemble des assets ci-dessous a été créé à l'aide d'outils d'IA généra
 ### Identité visuelle
 
 **Logo du jeu**
-![Logo du jeu](./assets/logo.png)
+![Logo du jeu](/assets/logo.png)
 
 **Couverture / Affiche**
-![Couverture du jeu](./assets/cover.png)
+![Couverture du jeu](/assets/cover.png)
 
 **Bannière**
-![Bannière du jeu](./assets/banner.png)
+![Bannière du jeu](/assets/banner.png)
 
 ### Personnages
 
