@@ -27,7 +27,7 @@ L'ensemble des assets ci-dessous a été créé à l'aide d'outils d'IA généra
 ![Logo du jeu](./assets/logo.png)
 
 **Couverture / Affiche**
-![Couverture du jeu](./assets/cover.jpg)
+![Couverture du jeu](./assets/cover.png)
 
 **Bannière**
 ![Bannière du jeu](./assets/banner.png)
@@ -63,7 +63,7 @@ L'ensemble des assets ci-dessous a été créé à l'aide d'outils d'IA généra
 ### Interface Utilisateur
 
 **Menu Principal**
-![Menu principal du jeu](./assets/main_menu.jpg)
+![Menu principal du jeu](./assets/main_menu.png)
 
 ---
 
