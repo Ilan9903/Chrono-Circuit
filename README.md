@@ -1,6 +1,6 @@
 # Projet IA Générative : Chrono-Circuit
 
-**Noms du binôme :** Ilan ARFI et 
+**Noms du binôme :** Ilan ARFI et Mathieu GONZALEZ
 
 ---
 
