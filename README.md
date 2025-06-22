@@ -56,7 +56,7 @@ L'ensemble des assets ci-dessous a été créé à l'aide d'outils d'IA généra
 (Lien vers le fichier .obj dans le dépôt)
 `./assets/antagoniste_obj`
 
-![Antagoniste principal 3D](./assets/personnage_principale_3D.png)
+![Antagoniste principal 3D](./assets/antagoniste_3D.png)
 
 ### Musique & Ambiance
 
