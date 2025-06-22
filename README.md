@@ -42,7 +42,7 @@ L'ensemble des assets ci-dessous a été créé à l'aide d'outils d'IA généra
 
 *Modèle 3D*
 (Lien vers le dossier .obj dans le dépôt)
-`assets/antagoniste_obj`
+`./assets/personnage_principal_obj`
 ![Personnage principal 3D](assets/personnage_principale_3D.png)
 
 **Antagoniste : Warden**
