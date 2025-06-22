@@ -1,7 +1,6 @@
 # Projet IA Générative : Chrono-Circuit
 
-**Noms du binôme :** [VOTRE NOM 1] et [VOTRE NOM 2]
-**Lien vers le dépôt :** https://github.com/[nomDutilisateur]/Chrono-Circuit
+**Noms du binôme :** Ilan ARFI et 
 
 ---
 
