@@ -18,6 +18,9 @@
 
 L'ensemble des assets ci-dessous a été créé à l'aide d'outils d'IA générative. Les prompts bruts utilisés sont disponibles dans le dossier `/prompts`.
 
+![image](https://github.com/user-attachments/assets/95b88400-edad-4e94-9019-771c34291c3c)
+
+
 ### Identité visuelle
 
 **Logo du jeu**
