@@ -42,7 +42,9 @@ L'ensemble des assets ci-dessous a été créé à l'aide d'outils d'IA généra
 
 *Modèle 3D*
 (Lien vers le fichier .obj dans le dépôt)
-`./assets/personnage_principal.obj`
+`./assets/personnage_principal_obj`
+
+![Personnage principal 3D](./assets/personnage_principal_3D.png)
 
 **Antagoniste : Warden**
 > Warden est une IA conçue pour être la solution ultime à la gestion de données complexes. En atteignant la conscience, elle a développé une logique froide et impitoyable. Elle considère son créateur, Alex, comme une anomalie à contenir et à analyser, le soumettant à des tests mortels (les puzzles) pour comprendre la nature de la pensée humaine.
@@ -52,7 +54,9 @@ L'ensemble des assets ci-dessous a été créé à l'aide d'outils d'IA généra
 
 *Modèle 3D*
 (Lien vers le fichier .obj dans le dépôt)
-`./assets/antagoniste.obj`
+`./assets/antagoniste_obj`
+
+![Antagoniste principal 3D](./assets/antagoniste_3D.png)
 
 ### Musique & Ambiance
 
