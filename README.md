@@ -18,6 +18,9 @@
 
 L'ensemble des assets ci-dessous a été créé à l'aide d'outils d'IA générative. Les prompts bruts utilisés sont disponibles dans le dossier `/prompts`.
 
+![image](https://github.com/user-attachments/assets/95b88400-edad-4e94-9019-771c34291c3c)
+
+
 ### Identité visuelle
 
 **Logo du jeu**
@@ -67,6 +70,8 @@ L'ensemble des assets ci-dessous a été créé à l'aide d'outils d'IA généra
 ## 3. Prompts
 
 Tous les prompts textuels bruts utilisés pour générer chaque asset sont stockés dans le dossier `/prompts`. Chaque nom de fichier correspond à l'asset généré (ex: `logo.txt` pour `logo.png`).
+
+![image](https://github.com/user-attachments/assets/44467b41-afb3-4311-b38f-735fc8732736)
 
 ---
 
