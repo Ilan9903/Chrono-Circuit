@@ -52,7 +52,7 @@ L'ensemble des assets ci-dessous a été créé à l'aide d'outils d'IA généra
 ![Antagoniste principal](./assets/antagoniste.png)
 
 *Modèle 3D*
-(Lien vers le fichier .obj dans le dépôt)
+(Lien vers le dossier .obj dans le dépôt)
 `./assets/antagoniste_obj`
 ![Antagoniste principal 3D](./assets/antagoniste_3D.png)
 
