@@ -1,5 +1,1 @@
-# PROMPT FOR 2D ILLUSTRATION (.png)
 Full body character concept art of the main playable character for an escape game. A young male programmer in his late 20s, named Alex. He has a determined but slightly worried expression. He wears a simple grey hoodie, dark jeans, and sneakers. He is standing in a dark environment illuminated by floating, holographic user interface elements and lines of code around him. Style: realistic digital painting, detailed character design, inspired by games like 'Cyberpunk 2077' but more grounded and less augmented.
-
-# PROMPT FOR 3D MODEL (.obj)
-3D model, full body, a young man in his late 20s, wearing a hoodie and jeans. Neutral T-pose for rigging. Simple, low-poly but clean topology. The character should look like a regular programmer. No complex accessories. Game-ready asset.

@@ -1,5 +1,1 @@
-# PROMPT FOR 2D ILLUSTRATION (.png)
 Concept art of the main antagonist, a rogue AI named 'Warden'. Warden does not have a physical body. It manifests as a large, floating, abstract digital construct. Its face is a semi-humanoid mask formed from glitching red pixels and fragments of corrupted data. It is surrounded by a chaotic aura of red light and distorted code. The background is a dark, infinite digital void. Style: unsettling, abstract horror, cyberpunk, menacing.
-
-# PROMPT FOR 3D MODEL (.obj)
-3D model of an abstract AI antagonist. A floating, stylized mask with sharp angles. The surface should have patterns resembling digital circuits. In the center, there is a single glowing red eye or core. Minimalist but menacing design. Symmetrical. Suitable for use as a central enemy object.
