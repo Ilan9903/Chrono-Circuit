@@ -68,6 +68,15 @@ L'ensemble des assets ci-dessous a été créé à l'aide d'outils d'IA généra
 
 Tous les prompts textuels bruts utilisés pour générer chaque asset sont stockés dans le dossier `/prompts`. Chaque nom de fichier correspond à l'asset généré (ex: `logo.txt` pour `logo.png`).
 
+prompts/
+    ├── logo.txt
+    ├── cover.txt
+    ├── banner.txt
+    ├── personnage_principal.txt
+    ├── antagoniste.txt
+    ├── main_menu.txt
+    └── main_theme.txt
+
 ---
 
 ## 4. Commentaires et Choix Artistiques
