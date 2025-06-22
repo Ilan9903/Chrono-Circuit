@@ -42,7 +42,7 @@ L'ensemble des assets ci-dessous a été créé à l'aide d'outils d'IA généra
 
 *Modèle 3D*
 (Lien vers le fichier .obj dans le dépôt)
-`./assets/personnage_principal_obj`
+![Modèle](./assets/personnage_principal_obj)
 
 ![Personnage principal 3D](./assets/personnage_principal_3D.png)
 
